@@ -1,0 +1,11 @@
+- Install libcupti-dev 
+	sudo apt-get install libcupti-dev
+- Install Tensorflow
+	pip install tensorflow
+- Install Nltk
+	pip install nltk
+- Download required nltk corpus and model: phunkt and wordnet
+	-Enter Python shell 
+	-import nltl
+	-nltk.download()
+
