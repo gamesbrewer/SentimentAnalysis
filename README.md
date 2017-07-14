@@ -1,7 +1,7 @@
 # Sentiment Analysis with Deep Learning.
 
 # Second Session: 
-All models and datasets hosted at: -Google Drive Link (https://drive.google.com/file/d/0ByGkmmuU1ZZyQkRfZWxIdUdUeTQ/view)
+All models and datasets hosted at: -[Google Drive Link](https://drive.google.com/file/d/0ByGkmmuU1ZZyQkRfZWxIdUdUeTQ/view)
 
 Datasets: -sentiment140 Dataset Samples: 1.6 million polarity: 0 = negative. 2 = neutral. 4 = positive.
 
