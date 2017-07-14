@@ -1,13 +1,13 @@
-#Sentiment Analysis with Deep Learning.
+# Sentiment Analysis with Deep Learning.
 
-#Second Session: 
+# Second Session: 
 All models and datasets hosted at: -Google Drive Link
 
 Datasets: -sentiment140 Dataset Samples: 1.6 million polarity: 0 = negative. 2 = neutral. 4 = positive.
 
 Epochs:10 Accuracy: 75% (Low Accuracy causes: Not enough data, Poor Deep learning model. [Recurrent Neural Nets/LSTM are better for Natural Language modeling.])
 
-#First Session:
+# First Session:
 Dataset: 10k lines of positive and negative samples of data. Number of Hidden Layers = 3
 
 Number of Nodes in Hidden Layer 1 = 2000 Number of Nodes in Hidden Layer 2 = 2000 Number of Nodes in Hidden Layer 3 = 2000
